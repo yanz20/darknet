@@ -2,7 +2,8 @@
 Darknet object detector models
 
 Currently included model(s):
-1.Bird and Horse detection model using YoloV3 (in Bird_Horse_detection\backup\custom_final.weights)
+    1.Bird and Horse detection model using YoloV3 (in Bird_Horse_detection\backup\custom_final.weights)
+
 
 Resule as below:
 ![BirdDetection](Bird_Horse_detection/bird_detect.jpg)
